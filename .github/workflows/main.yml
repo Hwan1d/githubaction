@@ -4,4 +4,4 @@ jobs:
   calculate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Hwan1d/calc-action@main
+      - uses: Hwan1d/action@main
