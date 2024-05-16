@@ -7,4 +7,4 @@ jobs:
       - uses: Hwan1d/githubaction@main
         with:
             x: 21
-            y: 1
+            y: 11
