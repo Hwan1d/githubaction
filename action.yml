@@ -1,0 +1,6 @@
+name: Calc Action
+runs:
+  using: "composite"
+  steps:
+    - run: echo "Hello World!"
+      shell: bash 
